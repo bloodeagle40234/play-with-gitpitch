@@ -3,7 +3,7 @@
 ---
 ## the 1st slide
 - I like Sushi
-- I like Ramen nudle
+- I like Ramen noodle
 
 ---
 ## the 2nd slide
