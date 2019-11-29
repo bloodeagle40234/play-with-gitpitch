@@ -10,7 +10,7 @@
 - I like to play with my kids
 
 ---
-## the final side
+## the final slide
 Thank you for looking at.
 
 src: https://github.com/bloodeagle40234/play-with-gitpitch/
